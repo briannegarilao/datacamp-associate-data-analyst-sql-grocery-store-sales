@@ -44,7 +44,7 @@ LICENSE
 
 ## What I learned
 
-REPLACE THIS with 2 to 3 honest sentences. See the template in Part 4 below.
+The trickiest part was Task 2. I learned to calculate the medians before filling any gaps, so the imputed values do not influence the median itself. I also learned to check text columns for inconsistent values (extra spaces, mixed capitalization, placeholder characters) before trusting any grouping or filtering. Next time I would start every cleaning task by profiling each column’s distinct values first.
 
 ## Notes
 
